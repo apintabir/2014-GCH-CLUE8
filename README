@@ -1,0 +1,15 @@
+README
+
+coords.csv is for uploading to google maps.
+
+RUNME is a script to build and run the solution.
+
+adjacency_matrix.txt and coordinates.txt were given.
+I combined those in clue_graph.txt so I only had to cat one file.
+The '40' at the beginning specifies the number of nodes in the graph.
+
+extra_math.cpp and extra_math.h are from http://www.geodatasource.com/developers/c
+
+graph.cpp and graph.h have the code I wrote in them.
+
+test_graph.txt is only the first five nodes; I used it for testing (from the physics/nanotech building to amundson should go through keller).
